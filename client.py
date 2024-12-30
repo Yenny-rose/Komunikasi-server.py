@@ -1,7 +1,7 @@
 #-----------------------------------------------
 # socket_echo_client.py
 #
-# author  =  danu andrean
+# author  =  Yenny Rahmawati
 #
 #------------------------------------------------
 
